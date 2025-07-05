@@ -6,7 +6,6 @@ extern Nebulark::Application* Nebulark::CreateApplication();
 
 int main(int argc, char** argv)
 {
-	printf("Nebulark Engine\n");
 	auto app = Nebulark::CreateApplication();
 	app->Run();
 	delete app;
