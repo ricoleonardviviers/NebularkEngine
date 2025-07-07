@@ -9,7 +9,6 @@ public:
 	~Sandbox()
 	{
 	}
-
 };
 
 Nebulark::Application* Nebulark::CreateApplication()
