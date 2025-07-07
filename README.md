@@ -39,7 +39,7 @@ Nebulark is a modern, lightweight, and efficient game engine designed to empower
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ricoleonardviviers/NebularkEngine.git
+   git clone https://github.com/OriginalRogueGames/NebularkEngine.git
    ```
 1. Build the project with premake:
 
