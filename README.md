@@ -1,7 +1,12 @@
 # Nebulark
-#Not yet ready! This is just a readme file template for the near feature
+### Not yet ready! This is just a readme file template for the near feature
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8542be21-45ab-4181-961e-c6c6e2300880" width="700" />
+</div>
 
-![Nebulark Logo](path/to/logo.png) *(Optional - add your logo here)*
+<h1 align="center">Nebulark: 3D Game Engine</h1>
+
+<br><br>
 
 Nebulark is a modern, lightweight, and efficient game engine designed to empower developers with powerful tools to create immersive games. Started on **2025/07/05**, Nebulark focuses on flexibility, performance, and ease of use.
 
@@ -26,7 +31,7 @@ Nebulark is a modern, lightweight, and efficient game engine designed to empower
 
 * C++17 compatible compiler
 * CMake 3.20+
-* OpenGL
+* Modern OpenGL
 * Future plans for other graphics API's denpendend on platform
 
 ### Installation
@@ -36,11 +41,11 @@ Nebulark is a modern, lightweight, and efficient game engine designed to empower
    ```bash
    git clone https://github.com/ricoleonardviviers/NebularkEngine.git
    ```
+1. Build the project with premake:
 
-2. Build with premake:
-
-  Simply run the GeneratProject.bat
-
+   ```bash
+   Simply run the GeneratProject.bat
+   ```
 3. Run the engine demo or integrate into your project.
 
 ---
@@ -83,7 +88,7 @@ Please adhere to the coding style and include tests if applicable.
 
 ## License
 
-This project is licensed under the APACHI License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the APACHE License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -91,7 +96,7 @@ This project is licensed under the APACHI License - see the [LICENSE](LICENSE) f
 
 Created by Rico — feel free to reach out:
 
-* GitHub: [RicoViviers]((https://github.com/ricoleonardviviers))
+* GitHub: [RicoViviers](https://github.com/ricoleonardviviers)
 * Email: [rleonardviviers@gmail.com](mailto:rleonardviviers@example.com)
 
 ---
