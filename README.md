@@ -1,6 +1,6 @@
 # Nebulark
-<<<<<<< main
-=======
+
+
 ### Not yet ready! This is just a readme file template for the near feature
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8542be21-45ab-4181-961e-c6c6e2300880" width="700" />
@@ -106,4 +106,3 @@ Created by Rico — feel free to reach out:
 ### Acknowledgments
 
 Thanks to the open-source community for inspiration and support.
->>>>>>> main
